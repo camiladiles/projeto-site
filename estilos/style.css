@@ -8,10 +8,35 @@ body {
 }
 
 main {
-    background-color: rgb(203, 120, 224);
-    width: 500px;
+    background-color: rgb(203, 172, 210);
+    width: 800px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px, 3px, 5px, black;
 }
 
+h1 {
+    font-size: 2em;
+    color:rgb(0, 3, 2)
+}
+
+h2 {
+    font-size: 1.5em;
+    color:rgb(227, 232, 230)
+}
+
+img.lado {
+    float: right
+    
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color:brown
+}
+
+a:hover {
+    text-decoration: underline;
+    color:blue
+}
